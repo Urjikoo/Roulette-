@@ -1,13 +1,3 @@
-## Installation
+## Roulette game website. The website allows users to bet money and select color and see how much they won or they lost.
+![Project](Project.png)
 
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
