@@ -1,0 +1,45 @@
+body {
+  padding-top: 80px;
+  word-wrap: break-word;
+  background-image: url("roulette.jpeg");
+}
+img {
+  height: 200px;
+}
+.content {
+  border: 2px solid white;
+  background-color: rgb(225, 216, 216);
+  color: black;
+  opacity: 0.9;
+  height: 330px;
+  width: 20%;
+  float: left;
+  margin: 42px;
+  margin-left: 480px;
+  padding: 30px;
+}
+.buttons {
+  /* border: 2px solid white; */
+  height: 330px;
+  width: 30%;
+  float: left;
+  margin: 22px;
+}
+.betChoice {
+  height: 80px;
+  margin: 12px;
+  color: white;
+  font-size: 20px;
+  background-color: red;
+  width: 100px;
+  border-radius: 40px;
+  text-align: center;
+  text-decoration: none;
+}
+li {
+  text-decoration: none;
+}
+h2,
+h3 {
+  color: black;
+}
